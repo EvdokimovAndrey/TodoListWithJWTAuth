@@ -2,7 +2,7 @@
 
 * PostgreSQL Express React Node (PERN) full-stack приложение, React — frontend и Node.js — backend.
 
-## General info
+## Основная информация
 
 ### Backend
 
