@@ -12,3 +12,13 @@
 ### Frontend
 
 * React-интерфейс включает в себя простой список задач. Пользователь может добавлять, редактировать и удалять задачи.
+
+## Features - Backend
+
+* Все данные хранятся в реляционной базе данных PostgreSQL.
+
+## Features - Frontend
+
+* React приложение создано с помощью [Create React App](https://reactjs.org/docs/create-a-new-react-app.html)
+* Использовался [Bootstrap basic table](https://www.w3schools.com/bootstrap/bootstrap_tables.asp) to list todos
+* [Bootstrap 4 Modal](https://www.w3schools.com/bootstrap4/bootstrap_modal.asp) dialog box
